@@ -1,0 +1,12 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est D8D7-81B3
+
+ R‚pertoire de C:\Mon-premier-projet
+
+18/05/2019  03:58    <DIR>          .
+18/05/2019  03:58    <DIR>          ..
+18/05/2019  03:14               416 index.html
+18/05/2019  03:16                 8 text1.text
+18/05/2019  03:58                 0 text2.txt
+               3 fichier(s)              424 octets
+               2 R‚p(s)  30ÿ027ÿ251ÿ712 octets libres
